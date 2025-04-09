@@ -102,8 +102,8 @@ Dilisensikan di bawah [MIT License](LICENSE).
 ### Kontak
 
 Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya melalui:
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nourivex)
+- Email: affif@nourivex.tech
+- LinkedIn: [Muhammad Affif](https://www.linkedin.com/in/nourivex)
 
 ---
 
