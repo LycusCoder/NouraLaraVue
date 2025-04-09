@@ -1,66 +1,113 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# NouraLaraVue
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <img src="https://storage.googleapis.com/a1aa/image/EUMMqkqmFFBZtIwQ5m2hwuJIfREXD56SMiCgY6miGZ8.jpg" alt="NouraLaraVue Logo" width="200">
 </p>
 
-## About Laravel
+<p align="center">
+  <strong>Code Like a Polar Bear – Stay Cool Under Pressure</strong>
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<p align="center">
+  <a href="https://github.com/LycusCoder/NouraLaraVue/actions"><img src="https://github.com/LycusCoder/NouraLaraVue/workflows/CI/badge.svg" alt="Build Status"></a>
+  <a href="https://github.com/LycusCoder/NouraLaraVue/blob/main/LICENSE"><img src="https://img.shields.io/github/license/LycusCoder/NouraLaraVue" alt="License"></a>
+  <a href="https://github.com/LycusCoder/NouraLaraVue/graphs/contributors"><img src="https://img.shields.io/github/contributors/LycusCoder/NouraLaraVue" alt="Contributors"></a>
+</p>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 🚀 Tentang NouraLaraVue
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+NouraLaraVue adalah template modern yang dirancang untuk mempermudah pengembangan aplikasi Laravel dan Vue.js. Template ini menyediakan fitur-fitur seperti autentikasi built-in, kode bersih, ikon Font Awesome global, dan desain responsif menggunakan Tailwind CSS.
 
-## Learning Laravel
+## 🛠️ Fitur Utama
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- **Autentikasi Built-in**: Sistem login/register yang aman dan mudah digunakan.
+- **Kode Bersih**: Struktur kode yang rapi dan modular untuk pengembangan yang lebih efisien.
+- **Font Awesome Icons**: Akses global ke ribuan ikon Font Awesome untuk meningkatkan UX.
+- **Tailwind CSS**: Framework CSS responsif yang fleksibel untuk desain modern.
+- **Recent Activity Tracking**: Pelacakan aktivitas pengguna terbaru untuk pengalaman yang lebih interaktif.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## 🎨 Desain Responsif
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Proyek ini menggunakan Tailwind CSS untuk menciptakan desain yang responsif dan konsisten di semua perangkat.
 
-## Laravel Sponsors
+### Contoh Halaman
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+#### **Homepage**
+<p align="center">
+  <img src="screenshots/homepage.png" alt="Homepage" width="800">
+</p>
 
-### Premium Partners
+#### **Login Page**
+<p align="center">
+  <img src="screenshots/login.png" alt="Login Page" width="800">
+</p>
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+#### **Dashboard**
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="Dashboard" width="800">
+</p>
 
-## Contributing
+## 🏁 Mulai Menggunakan
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### Prasyarat
+- Node.js (v14.x atau lebih tinggi)
+- PHP (v7.4.x atau lebih tinggi)
+- Composer
+- NPM/Yarn
 
-## Code of Conduct
+### Instalasi
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/LycusCoder/NouraLaraVue.git
+   cd NouraLaraVue
+   ```
 
-## Security Vulnerabilities
+2. **Instal Dependencies**
+   ```bash
+   composer install
+   npm install
+   ```
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+3. **Konfigurasi Environment**
+   Salin file `.env.example` menjadi `.env`:
+   ```bash
+   cp .env.example .env
+   ```
+   Atur konfigurasi database dan lainnya sesuai kebutuhan.
 
-## License
+4. **Generate Key dan Migrate Database**
+   ```bash
+   php artisan key:generate
+   php artisan migrate
+   ```
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+5. **Run Development Server**
+   ```bash
+   npm run dev
+   php artisan serve
+   ```
+   Buka browser dan kunjungi `http://localhost:8000`.
+
+## 🤝 Kontribusi
+
+Terima kasih atas minat Anda untuk berkontribusi! Silakan baca [CONTRIBUTING.md](CONTRIBUTING.md) untuk informasi lebih lanjut tentang cara berkontribusi.
+
+## 📄 Lisensi
+
+Dilisensikan di bawah [MIT License](LICENSE).
+
+---
+
+### Kontak
+
+Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya melalui:
+- Email: your-email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nourivex)
+
+---
+
+### Demo Live
+
+[Tonton Demo Live](https://nouralaravue-demo.netlify.app)
+
